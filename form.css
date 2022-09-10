@@ -1,0 +1,60 @@
+body {
+		font-family:georgia;
+		background-color:#66b3ff;
+		
+	}
+#h1{
+		text-align:center;
+		color:white;
+		font-size:50px;
+	}
+	
+	
+#input01{
+		background-color:#ff66b3;
+	}
+	
+#td{
+		text-align:center;
+		
+	}
+	
+#td01{
+		
+		padding-bottom: 1000%;
+	}
+	
+/*#tr{
+		margin: auto;
+		padding-bottom: 500%;
+	}*/
+	
+input{
+		
+		height:40px;
+		width:240px;
+		font-size:30px;
+		
+		
+	}
+table {
+		margin: auto;
+		width: 45%;
+		text-align:left;
+		padding: 10px;
+		border-style:double;
+		border-color:#ff1a75;
+		border-width: 8px;
+		background-color:white;
+		font-size:40px;
+	}
+	
+caption{
+			font-family:georgia;
+			color:blue;
+	}
+	
+colspan {
+			border-style:solid;
+	}
+	
